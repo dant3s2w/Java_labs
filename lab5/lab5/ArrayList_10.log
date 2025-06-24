@@ -1,0 +1,20 @@
+Start program: 22.04.2025 16:34:32
+ArrayList
+add, ID = 1, 83600
+add, ID = 2, 58100
+add, ID = 3, 31900
+add, ID = 4, 25000
+add, ID = 5, 19500
+add, ID = 6, 30400
+add, ID = 7, 27200
+add, ID = 8, 30300
+add, ID = 9, 28000
+add, ID = 10, 21800
+remove, ID = 4, 11000
+addTotalCount = 10
+addTotalTime = 355800
+addMedianTime = 29150
+removeTotalCount = 1
+removeTotalTime = 11000
+removeMedianTime = 11000
+Finish program: 22.04.2025 16:34:32
