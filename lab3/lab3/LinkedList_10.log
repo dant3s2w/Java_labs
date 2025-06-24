@@ -1,0 +1,20 @@
+Start program: 22.04.2025 22:19:42
+LinkedList
+add, ID = 1, 7200
+add, ID = 2, 3100
+add, ID = 3, 400
+add, ID = 4, 300
+add, ID = 5, 500
+add, ID = 6, 300
+add, ID = 7, 200
+add, ID = 8, 200
+add, ID = 9, 200
+add, ID = 10, 300
+remove, ID = 4, 12800
+addTotalCount = 10
+addTotalTime = 12700
+addMedianTime = 300
+removeTotalCount = 1
+removeTotalTime = 12800
+removeMedianTime = 12800
+Finish program: 22.04.2025 22:19:42
